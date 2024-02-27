@@ -26,6 +26,7 @@ public class MainProgram {
         System.out.println(mainController.showList());  //Liste vorher
         mainController.sortList();                      //Liste sortieren
         System.out.println(mainController.showList());  //Liste nachher
+        System.out.println("a");
 
     }
 }
